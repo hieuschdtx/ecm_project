@@ -1,0 +1,11 @@
+export { default as ProfileView } from './profile/profile-view';
+export { default as ProductDetailView } from './products/products-detail-view';
+export { default as ProductCategoryView } from './product-categories/product-category-view';
+export { default as HomeView } from './overview/home-view';
+export { default as LoginView } from './login/login-view';
+export { default as NotFoundView } from './error/not-found-view';
+export { default as CheckoutView } from './checkout/checkout-view';
+export { default as ChangePasswordView } from './change-password/change-password-view';
+export { default as CartView } from './cart/cart-view';
+export { default as BlogView } from './blog/blog-view';
+export { default as RegisterView } from './register/register-view';

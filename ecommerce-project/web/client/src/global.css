@@ -1,0 +1,7 @@
+/* scrollbar */
+@import 'simplebar-react/dist/simplebar.min.css';
+
+.custom-listbox {
+  background-color: white;
+  font-size:13px;
+}
